@@ -1,0 +1,14 @@
+/*header starting*/
+header{
+    background-color: rgba(255, 144, 14, 0.10);
+    ;
+}
+.arch-btn{
+    display: flex;
+    align-items: right;
+    justify-content: right;
+}
+.g3{
+    align-items: left;
+    justify-content: left;
+}
